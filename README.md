@@ -10,5 +10,5 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
   
  <h3>Most Used Languages</h3>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun&layout=compact)](https://github.com/jiyun/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hijiyun&layout=compact)](https://github.com/hijiyun/github-readme-stats)
  </div>
