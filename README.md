@@ -27,7 +27,7 @@
  
  <h3>💌Call Me💌</h3>
  <a href="https://www.instagram.com/j___y______/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
-  <a href="https://mail.naver.com/v2/new" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
+     <img src="https://img.shields.io/badge/tkrhkfld123-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
 
  
  <h3>🎖️Most Used Languages🎖️</h3>
