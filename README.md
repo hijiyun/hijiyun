@@ -16,7 +16,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
   
  <h3>Most Used Languages</h3>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hijiyun&layout=compact)](https://github.com/hijiyun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hijiyun&layout=compact)](https://github.com/hijiyun/github-readme-stats)
  
  
  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>
