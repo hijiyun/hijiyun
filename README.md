@@ -1,5 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 
 <div align="center">
+ 
+ 
+ 
  <h3> Tech Stach </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -20,4 +26,14 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/j___y______/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<a href="https://www.instagram.com/j___y______/"><img src="https://img.shields.io/badge/Instagram-색상코드?style=flat&logo=로고이름&logoColor=white&link=링크주소"/></a>&nbsp
+ 
+ 
+ 
+ 
+ 
  </div>
+ 
+ 
+ 
