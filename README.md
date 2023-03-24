@@ -35,7 +35,7 @@
  
 <h3>✨지윤's github stats✨</h3>
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijiyun)](https://github.com/hijiyun/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijiyun)]
  
 
  
