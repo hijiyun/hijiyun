@@ -28,15 +28,17 @@
  <h3>💌Call Me💌</h3>
  <a href="https://www.instagram.com/j___y______/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
      <img src="https://img.shields.io/badge/tkrhkfld123-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+ </div>
 
- 
+ <div align=center>
  <h3>🎖️Most Used Languages🎖️</h3>
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hijiyun&langs_count=8")](https://github.com/hijiyun/github-readme-stats)>
- 
-<h3>✨지윤's github stats✨</h3>
+ <h3>✨지윤's github stats✨</h3>
  
 ![Jiyun's github stats](https://github-readme-stats.vercel.app/api?username=hijiyun&show_icons=true)
  
+ </div>
+ 
 
  
-  </div>
+  
