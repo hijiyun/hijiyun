@@ -35,7 +35,7 @@
  
 <h3>✨지윤's github stats✨</h3>
  
-![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijiyun&show_icons=true&theme=radical)
+![Jiyun's github stats](https://github-readme-stats.vercel.app/api?username=hijiyun&show_icons=true)
  
 
  
