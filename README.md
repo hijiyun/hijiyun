@@ -31,11 +31,11 @@
 
  
  <h3>🎖️Most Used Languages🎖️</h3>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijiyun&layout=compact"/>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hijiyun&langs_count=8")](https://github.com/hijiyun/github-readme-stats)>
  
 <h3>✨지윤's github stats✨</h3>
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijiyun)]
+![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijiyun&show_icons=true&theme=radical)
  
 
  
