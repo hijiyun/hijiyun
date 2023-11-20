@@ -1,7 +1,11 @@
 <div align=center>
 
+### Hi there 👋, my name is Jiyun
+##### 🌱 I want to be a developer who can move the world.
+
+
 <div style="display:flex; flex-direction:row;">
-    <h4 align="center">✨ INTRODUCE ✨</h4>
+    <h4 align="center">✨ SELF INTRODUCTION ✨</h4>
     <a href="https://www.notion.so/8762106650c74d7488db84265a23ee1d?pvs=4">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
  
