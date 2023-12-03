@@ -23,11 +23,7 @@
  <img src="https://img.shields.io/badge/parkjiyun3706@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
  </div></a>
 <br/>
- <div align=center>
- 
-![Jiyun's github stats](https://github-readme-stats.vercel.app/api?username=hijiyun&show_icons=true)
- 
- </div>
+
  
 
  
