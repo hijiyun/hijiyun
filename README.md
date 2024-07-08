@@ -7,7 +7,7 @@
 <div style="display:flex; flex-direction:row;">
     <h4 align="center">✨ SELF INTRODUCTION ✨</h4>
     <a href="https://continuous-appliance-729.notion.site/8762106650c74d7488db84265a23ee1d?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
+    <img src="https://striped-quesadilla-daf.notion.site/6f23b78e3e5944ffb32c9c32c49254ea?pvs=4"> 
  
  <h4>✨ TECH STACH & TOOLS ✨  </h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
