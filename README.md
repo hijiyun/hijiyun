@@ -6,7 +6,7 @@
 
 <div style="display:flex; flex-direction:row;">
     <h4 align="center">✨ SELF INTRODUCTION ✨</h4>
-    <a href="https://striped-quesadilla-daf.notion.site/e257a79727ae416389abf3642d8911eb?pvs=4">
+    <a href="https://striped-quesadilla-daf.notion.site/2d836c8fcdc7457ab96e10e414c3b48f?pvs=4">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
  
  <h4>✨ TECH STACH & TOOLS ✨  </h4>
